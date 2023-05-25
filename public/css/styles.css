@@ -11,7 +11,17 @@ body {
 
 a { color: var(--bs-dark); }
 
-
+.log{
+  color: #5B21B6;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 700;
+}
+.logo-point{
+  color: #9D174D;
+  font-size: 3rem;
+  line-height: 1;
+}
 /* Category Card */
 .category__link {
   text-align: center;
